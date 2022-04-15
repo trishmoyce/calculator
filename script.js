@@ -269,7 +269,3 @@ function displaykey(e) {
         document.querySelector(".display").textContent = "";
     }
 }
-
-// other issues
-// make it pretty
-// after a certain amount of characters (no more than 11) entered the calculator should stop accepting input (if str.length > 11)
